@@ -1,4 +1,4 @@
-# Pizza Sales Analysis using SQL
+# Pizza Hut Sales Analysis using SQL
 
 This repository contains an SQL-based analysis of PizzaHut sales data. The goal is to explore sales trends, revenue contribution, and customer ordering behavior using structured queries and relational data analysis.
 
