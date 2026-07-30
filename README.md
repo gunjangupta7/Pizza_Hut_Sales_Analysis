@@ -1,76 +1,56 @@
-# Pizza_Hut_Sales_Analysis_Project
+# Pizza Sales Analysis using SQL
 
+This repository contains an SQL-based analysis of PizzaHut sales data. The goal is to explore sales trends, revenue contribution, and customer ordering behavior using structured queries and relational data analysis.
 
+## Project Files
 
-This repo contains SQL analysis of PizzaHut sales
+- [Pizza_salesSQL.pdf](./Pizza_salesSQL.pdf) - Project report and findings
+- [SQL Queries](./%23%20Pizza%20sales%20Analysis%20--%20SQL%20Queries.sql) - Full set of analysis queries
 
-**🍕 Pizza Sales Analysis using SQL**
+## Project Overview
 
-**📌 Project Overview**
+This project focuses on analyzing a pizza sales dataset using SQL to extract meaningful business insights.
 
-This project focuses on analyzing a pizza sales 
-dataset using SQL to extract meaningful
-business insights.
+The analysis is designed to understand:
 
-The analysis aims to understand sales trends, 
-revenue contribution, and customer ordering 
-patterns using structured query techniques.
+- Sales trends
+- Revenue contribution
+- Customer ordering patterns
+- Product and category performance
 
-The dataset consists of multiple related tables
-representing orders, order details, pizzas, and
-pizza categories.
+The dataset includes multiple related tables for orders, order details, pizzas, and pizza categories.
 
-**🗂 Dataset Description**
+## Dataset Description
 
 The project uses the following tables:
 
-**orders** – Contains order date and time 
-information
+- `orders` - Contains order date and time information
+- `order_details` - Stores pizza quantities per order
+- `pizzas` - Includes pizza size and price details
+- `pizza_types` - Contains pizza names and categories
 
-**order_details** – Stores pizza quantities per 
-order
+## Tools and Technologies
 
-**pizzas** – Includes pizza size and price details
+- SQL (MySQL)
+- Excel/CSV files as the data source
 
-**pizza_types** – Contains pizza names and 
-categories
+## Analysis Performed
 
-**🛠 Tools & Technologies**
+- Sales and revenue analysis
+- Identification of top-selling pizzas and categories
+- Peak ordering time analysis
+- Category-wise and size-wise revenue contribution
+- Use of joins, aggregations, and date/time functions
 
-SQL (MySQL)
+## Key Insights
 
-Excel (CSV files as data source)
+- Certain pizza categories contribute significantly to overall revenue.
+- Peak order volumes occur during specific time periods.
+- Larger pizza sizes generate higher revenue compared to smaller sizes.
+- A small set of pizzas contributes a major portion of total sales.
 
-**🔍 Analysis Performed**
+## Conclusion
 
-Sales and revenue analysis
+This project demonstrates how SQL can be effectively used to analyze real-world sales data. It helped strengthen SQL querying skills and build analytical thinking by transforming raw data into meaningful business insights.
 
-Identification of top-selling pizzas and 
-categories
 
-Peak ordering time analysis
-
-Category-wise and size-wise revenue 
-contribution
-
-Use of joins, aggregations, and date/time functions
-
-**📈 Key Insights**
-
-Certain pizza categories contribute 
-significantly to overall revenue
-
-Peak order volumes occur during specific time 
-periods
-
-Larger pizza sizes generate higher revenue 
-compared to smaller sizes
-
-A small set of pizzas contributes a major 
-portion of total sales
-
-**🎯 Conclusion**
-This project demonstrates how SQL can be 
-effectively used to analyze real-world sales data.
-It helped strengthen SQL querying skills and 
-develop analytical thinking by transforming raw data into meaningful insights.
