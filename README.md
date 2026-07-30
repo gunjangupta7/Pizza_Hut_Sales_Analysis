@@ -4,7 +4,7 @@ This repository contains an SQL-based analysis of PizzaHut sales data. The goal 
 
 ## Project Files
 
-- [Pizza_salesSQL.pdf](./Pizza_salesSQL.pdf) - Project report and findings
+- [Pizza_salesSQL.pdf](./Pizza_salesSQL.pdf) - Pizza sales Analysis PDF
 - [SQL Queries](./%23%20Pizza%20sales%20Analysis%20--%20SQL%20Queries.sql) - Full set of analysis queries
 
 ## Project Overview
