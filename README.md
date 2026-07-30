@@ -1,8 +1,6 @@
-# Pizza-sales----SQL
+# Dominos_Sales_Analysis_Project
 
-Pdf -- https://github.com/Priyanshukr985/Pizza-sales----SQL/blob/main/Pizza_salesSQL.pdf
 
-https://github.com/Priyanshukr985/Pizza-sales----SQL/blob/main/%23%20Pizza%20sales%20Analysis%20--%20SQL%20Queries.sql
 
 This repo contains SQL analysis of PizzaHut sales
 
